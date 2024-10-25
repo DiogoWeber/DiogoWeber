@@ -1,4 +1,4 @@
-# DiogoWeber-novo
+# DiogoWeber
 
 Eu sou o Diogo Weber, sou Desenvolvedor Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript.
 
